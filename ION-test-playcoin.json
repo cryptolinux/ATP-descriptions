@@ -1,0 +1,11 @@
+{
+  "ticker": "PLAY",
+  "name": "Playcoin test",
+  "chain": "ION.testnet",
+  "summary": "Playcoin for exchanging in-game assets",
+  "description": "Playcoin enables the ability to exchange in-game assets",
+  "creator": "rdewilde",
+  "contact": {
+    "website": "https://github.com/playcoin-org/project"
+  }
+}
